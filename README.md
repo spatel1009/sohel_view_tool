@@ -18,6 +18,12 @@ Or install it yourself as:
 
     $ gem install sohel_view_tool
 
+## Usage
+
+```ruby
+SohelViewTool::Renderer.copyright 'Sohel Patel', 'All rights reserved.'
+```
+
 
 ## Development
 
